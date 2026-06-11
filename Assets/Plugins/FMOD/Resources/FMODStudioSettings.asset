@@ -526,8 +526,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../../../Desktop/audio-20260421/audio-20260415.fspro
-  sourceBankPath: ../../../Desktop/audio-20260421/Build
+  sourceProjectPath: ../../../Desktop/S2Audio/fmod/audio-20260421/audio-20260415.fspro
+  sourceBankPath: ../../../Desktop/S2Audio/fmod/audio-20260421/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 1
   ShowBankRefreshWindow: 1
@@ -539,6 +539,7 @@ MonoBehaviour:
   TargetAssetPath: FMODBanks
   TargetBankFolder: 
   EventLinkage: 0
+  SerializeGUIDsOnly: 0
   LoggingLevel: 2
   SpeakerModeSettings: []
   SampleRateSettings: []
@@ -562,7 +563,7 @@ MonoBehaviour:
   EnableErrorCallback: 0
   SharedLibraryUpdateStage: 0
   SharedLibraryTimeSinceStart: 0
-  CurrentVersion: 131617
+  CurrentVersion: 131859
   HideSetupWizard: 1
   LastEventReferenceScanVersion: 131617
   Platforms:
