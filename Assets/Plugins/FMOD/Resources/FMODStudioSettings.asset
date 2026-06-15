@@ -526,8 +526,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../../../Desktop/S2Audio/fmod/audio-20260421/audio-20260415.fspro
-  sourceBankPath: ../../../Desktop/S2Audio/fmod/audio-20260421/Build
+  sourceProjectPath: ../../../Desktop/S2Audio/fmod/audio-20260611/audio-20260611.fspro
+  sourceBankPath: ../../../Desktop/S2Audio/fmod/audio-20260611/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 1
   ShowBankRefreshWindow: 1
